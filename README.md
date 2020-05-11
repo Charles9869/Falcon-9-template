@@ -8,7 +8,7 @@ Simple HTML / CSS template
 
 ## RUN LOCALLY
 ```
-git clone https://github.com/Charles9869/Falcon-9-template.git
+$ git clone https://github.com/Charles9869/Falcon-9-template.git
 ```
 
 # SCREENSHOTS
